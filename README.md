@@ -1,2 +1,2 @@
 # sweater
-Sweater - project created while learning spring
+Sweater - project created while learning spring. Something like twitter.
